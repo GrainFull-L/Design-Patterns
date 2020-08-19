@@ -1,4 +1,4 @@
-package structural.filter;
+package behavioral.filter;
 
 import java.util.ArrayList;
 import java.util.List;

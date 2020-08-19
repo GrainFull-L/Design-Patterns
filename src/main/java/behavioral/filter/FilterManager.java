@@ -1,6 +1,4 @@
-package structural.filter;
-
-import structural.adapter.*;
+package behavioral.filter;
 
 /**
  * Created by Administrator on 2020/8/19.
