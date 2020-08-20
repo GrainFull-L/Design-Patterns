@@ -19,7 +19,7 @@ public class Car{
         }
     }
 
-    //被访问对象是相对稳定的，不同访问者有不同的操作
+    //被访问对象是相对稳定的，不同访问者有不同的操作  例如：医院收费员、药房工作人员对处方单的不同行为
     public static void main(String[] args) {
         Car car = new Car();
         car.add(new Body());
